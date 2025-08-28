@@ -7,7 +7,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("Barron W\n");
-
+    printf("Barron W:)\n");
+    printf("Computer Science Major\n");
 
 }
